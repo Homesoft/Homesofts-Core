@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A9BBDE28-40AC-45CE-B64C-0916F34F5C3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{92E982A8-7E82-42DE-8FD7-76279BA5EC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homesofts.Extension", "src\Homesofts.Extension\Homesofts.Extension.csproj", "{5B709794-224E-4D26-A98C-C279D3A2FD98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B709794-224E-4D26-A98C-C279D3A2FD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B709794-224E-4D26-A98C-C279D3A2FD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B709794-224E-4D26-A98C-C279D3A2FD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B709794-224E-4D26-A98C-C279D3A2FD98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B709794-224E-4D26-A98C-C279D3A2FD98} = {A9BBDE28-40AC-45CE-B64C-0916F34F5C3B}
+	EndGlobalSection
+EndGlobal

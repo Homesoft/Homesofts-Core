@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Homesofts.Extension</name>
+    </assembly>
+    <members>
+        <member name="M:Homesofts.Extension.ObjectExtension.ToBeginDay(System.DateTime)">
+            <summary>
+            Convert To Begin Day. example : (05/05/2013 00:00:00)
+            </summary>
+        </member>
+        <member name="M:Homesofts.Extension.ObjectExtension.ToEndDay(System.DateTime)">
+            <summary>
+            Convert To End Day. example : (05/05/2013 23:59:59)
+            </summary>
+        </member>
+    </members>
+</doc>

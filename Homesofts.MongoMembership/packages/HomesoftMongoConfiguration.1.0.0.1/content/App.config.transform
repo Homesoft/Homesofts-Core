@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <configSections>
+    <section name="mongodb" type="Homesofts.MongoConfiguration.Section.MongoSection, Homesofts.MongoConfiguration" />
+  </configSections>
+  <mongodb database="homesofts" username="admin" password="a1b2c3." admin="true" connectionMode="Direct">
+    <serverAddresses>
+      <add server="localhost" port="27010" />
+    </serverAddresses>
+  </mongodb>
+</configuration>
